@@ -1,4 +1,6 @@
-// Card.js
+// Author: Anjula Madusanka
+// This file contains Card and CardContent components used for displaying content in a styled card layout.
+
 import React from "react";
 
 export const Card = ({ children, className }) => {

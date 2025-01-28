@@ -1,4 +1,6 @@
-// Button.js
+// Author: Anjula Madusanka
+// This file contains Button components used for various button styles and functionalities in the application.
+
 import React from "react";
 
 export const Button = ({ children, className, variant = "default", ...props }) => {
